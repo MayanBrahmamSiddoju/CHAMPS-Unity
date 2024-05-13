@@ -3,16 +3,16 @@ The CHAMPS-Unity is a demo model of a social media platform for college  where s
 non technical aspects and events of the college.
 This application is currently with limited features.
 1.Official Section
-# This section deals with the official aspects of the college and students.
-# It consists of a workspace where students can plan and save their tasks to be done
+ This section deals with the official aspects of the college and students.
+ It consists of a workspace where students can plan and save their tasks to be done
 at a single place and makes them easier to check and accomplish their tasks.
-# The remaining aspects of official section like the official information,timetables
+ The remaining aspects of official section like the official information,timetables
 attendance , reports will be available in our future web-application
 2.Unofficial Section
-# The interesting and fun part in the application is hidden in this part of the
+ The interesting and fun part in the application is hidden in this part of the
 application.
-# This is where students can come together and chat,listen music and more
-# For now this has the following options
+ This is where students can come together and chat,listen music and more
+ For now this has the following options
 $ Chat
 $ Music Player
 $ Friends list
