@@ -1,0 +1,43 @@
+
+1Q.)Is internet connection required to enable chat?
+A.) yes the internet connection is needeed to enable the chat.
+______________________________________________________________________________
+
+2Q.) Can I delete any task from existing tasks in my workspace?
+A.) yes you can easily edit the tasks from the workspace.
+______________________________________________________________________________
+
+3Q.)  Are there any restrictions in username selection for chat?
+A.) no there are no restrictions for the chat username.
+______________________________________________________________________________
+
+4Q.) How can i switch between group chat and direct chat?
+A.)Type "exit" in the group chat option....you will be redirected to
+ main menu.You can select the Private chat option in the main menu.
+______________________________________________________________________________
+
+5Q.) Is it compulsary to save song in wav format to set it for the reminder ?
+A.) Yes..It is Necessary to have your song file in wav format...
+    The PlaySound function reads the system file in the .wav format......
+    It may not play the desired song if the song file is not in .wav format.
+_______________________________________________________________________________
+
+6Q.) How can we send our feedbacks and reports ?
+A.)  Good Question..We are very Glad to answer:
+     When you select the options like feedback and report...Console asks you to enter your name..
+     It Creates a text file with your name..
+     Now your feedback and report are being saved in that file.
+     Now please mail the file or upload it to the drive link.(shm181407@gmail.com).
+     Our Team will resolve the issue.  
+________________________________________________________________________________
+
+7Q.) Where do we get the drive link folder to share our feedback and reports ?
+A.)  You can get our drive link in the Contact US page.
+     Or you can Upload the files in the same drive link with which you have downloaded the CHAMPS UNITY Application.
+________________________________________________________________________________
+
+NOTE:: Make Sure You down load the Whole CHAMPS Unity File at a desired System location
+       Like Extract the files at the desktop.
+       If not the application may not be able to access the files so as a result application may not give you the apropriate Results.
+
+_____***********************************HOPE YOU ENJOYED USING OUR APPLICATION************************************_____
